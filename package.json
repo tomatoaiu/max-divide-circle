@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "serve": "npx parcel index.html",
+    "build": "npx parcel build index.html --out-dir docs"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.3",
+    "three": "^0.106.2",
+    "typescript": "^3.5.2"
+  }
+}
